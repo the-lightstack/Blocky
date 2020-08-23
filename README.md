@@ -1,7 +1,7 @@
 # Blocky
 Blocky is game in which you control a square snaking around the screen.<br> 
 The main focus lays on the input box, in which you can insert python code to control blocky.<br>
-Given variables for you to use are: isBarrierLeft,isBarrierRight,isBarrierTop,isBarrierBottom and isFinished(which seems to currently be broken<br>
+Given variables for you to use are: isBarrierLeft, isBarrierRight, isBarrierTop, isBarrierBottom and isFinished(which seems to currently be broken<br>
 The booleans for you to utilise in the parantheses are: isBarrierLeft,isBarrierTop,isBarrierRight,isBarrierDown and isFinished.<br>
 As mentioned earlier, the interpreter(which is developed purely in python, without modules) is in development and yet not implemented in the main game.<br>
 <br>
